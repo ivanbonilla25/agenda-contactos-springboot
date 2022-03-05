@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(52, 72, 90);
+}
+
+table {
+    background-color: rgba(255, 255, 255, 0.808);
+    border-collapse: separate;
+    border-spacing: 10;
+    border: 1px solid black;
+    border-radius: 15px;
+    -moz-border-radius: 20px;
+    padding: 2px;
+}
+
+h1,
+h3,
+form label {
+    color: white;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+h3 {
+    margin: 40px 0px 0px 0px;
+}
+
+h1 {
+    margin: 20px 0px 40px 0px;
+    font-size: 60px;
+}
